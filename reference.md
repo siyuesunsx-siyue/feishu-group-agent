@@ -1,6 +1,6 @@
 # 飞书群 Agent 参考
 
-给执行 [SKILL.md](SKILL.md) 的 agent。这里只写会做错的地方。
+给执行 [SKILL.md](SKILL.md) 的 agent。这里只写会做错的地方。24 小时服务只在用户确认之后才使用下面的常驻机器步骤。
 
 ## 加群
 
