@@ -7,10 +7,10 @@
 ## 安装
 
 ```bash
-npx skills add <OWNER>/feishu-group-agent
+npx skills add siyuesunsx-siyue/feishu-group-agent
 ```
 
-仓库地址确定后，把 `<OWNER>` 换成 GitHub 用户名或组织名。
+仓库：https://github.com/siyuesunsx-siyue/feishu-group-agent
 
 装好之后，对 agent 说：把某个 agent 加进飞书群，并让群成员可以 @ 它提问。
 
